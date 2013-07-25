@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version  = ::JVectorMap::Rails4::VERSION
   s.authors  = ["Frank Xie"]
   s.email    = ["frank@51shepherd.com"]
-  s.homepage = "https://github.com/pracstrat/jvectormap-rails4"
+  s.homepage = "https://github.com/FrankXie2012/jvectormap-rails4"
 
   s.description = s.summary = "jVectorMap for the Rails 4 asset pipeline"
 
